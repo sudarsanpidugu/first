@@ -1,1 +1,20 @@
-this is my new sample file 
+this is my new sample file
+what those?
+ 1. Min
+ 2. Hours
+ 3. Days in month
+ 4. Months in Year
+ 5. Days in week
+ 6. Task or script or job
+
+eg : * * * * * sh /test.sh
+
+every day every min the above script will execute.
+
+
+min = 0 - 59
+hours = 0 - 23
+Days in month = 1 - 31
+Months in year = 1 - 12
+Day in week = 0 sun 1 mon ....... 0 - 6
+
